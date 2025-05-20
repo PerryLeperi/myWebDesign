@@ -1,0 +1,28 @@
+p {
+    /* Borders */
+    background-color: aqua;
+    border-style: double;
+    border-width: 3px;
+}
+
+#para1 {
+    background-color: red;
+    border-color: black;
+}
+#para2 {
+    font-style: italic;
+    font-size: large;
+}
+/* . for class */
+#outerbox {
+    width: 100px;
+    height: 100px;
+    color: aqua;
+    background-color: rgb(68, 64, 64);
+}
+#innerbox {
+    width: 50px;
+    height: 50px;
+    color: blue;
+    background-color: chartreuse;
+}

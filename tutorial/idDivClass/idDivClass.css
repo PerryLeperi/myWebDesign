@@ -1,0 +1,12 @@
+div{
+    color: teal;
+}
+
+#secondDiv {
+    color: red;
+    background-color: cyan;
+}
+
+.greenText {
+    color: purple;   
+}

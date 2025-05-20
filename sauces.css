@@ -1,0 +1,48 @@
+:root {
+    --barn-red: #780000ff;
+    --fire-brick: #c1121fff;
+    --papaya-whip: #fdf0d5ff;
+    --prussian-blue: #003049ff;
+    --air-superiority-blue: #669bbcff;
+}
+body {
+
+    background-color: #780000ff;
+    text-align: center;
+    color: #fdf0d5ff;
+}
+
+.column1 {
+    
+    float: left;
+    width: 800px;
+    padding: 25px;   
+}
+p {
+    text-align: left;
+}
+#Saucemenu ul {
+    list-style-type: none;
+    background-color: #780000ff;
+    color: #fdf0d5ff;
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+#SauceMenu li {
+    float: none;
+    display: inline;
+    width: 100px;
+    padding: 50px 50px;
+
+}
+#SauceMenu li a {
+    
+    color: #fdf0d5ff;
+    text-decoration: none;
+}
+#SauceMenu li a:hover {
+    background-color: #fdf0d5ff;
+    color: #003049ff;
+    ;
+}

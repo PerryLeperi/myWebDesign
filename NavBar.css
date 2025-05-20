@@ -1,0 +1,33 @@
+:root {
+    --barn-red: #780000ff;
+    --fire-brick: #c1121fff;
+    --papaya-whip: #fdf0d5ff;
+    --prussian-blue: #003049ff;
+    --air-superiority-blue: #669bbcff;
+}
+#menu ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+#menu li {
+    float: center;
+
+}
+    
+#menu li a {
+    padding: 15px 20px;
+    background-color: #780000ff;
+    color: #fdf0d5ff;
+    text-decoration: none;
+    
+}
+#menu li a:hover {
+    background-color: #fdf0d5ff;
+    color: #003049ff;
+}
+#menu .active {
+    background-color: #fdf0d5ff;
+    color: #003049ff;
+}

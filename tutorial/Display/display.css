@@ -1,0 +1,20 @@
+p {
+    background-color: green;
+
+}
+span {
+    background-color: greenyellow;
+}
+#p1 {
+    display: none;
+}
+#p2 {
+    display: inline;
+    height: 50px;
+}
+#p3 {display: block;
+}
+#p4 {
+    display: inline-block;
+    height: 50px;
+}

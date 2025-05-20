@@ -1,0 +1,32 @@
+:root {
+    --barn-red: #780000ff;
+    --fire-brick: #c1121fff;
+    --papaya-whip: #fdf0d5ff;
+    --prussian-blue: #003049ff;
+    --air-superiority-blue: #669bbcff;
+}
+.container {
+    display: grid;
+    grid-template-columns: auto 500px;
+    flex-grow: 1;
+    margin: 20px;
+    background-color: #fdf0d5ff;
+    border: 5px #c1121fff double;
+    padding: 20px;
+    color: black;
+
+}
+#Instructions {
+    text-align: left;
+    padding: 10px;
+}
+#IngredientsHeader {
+    text-align: left;
+}
+#InstructionHeader {
+    text-align: left;
+}
+#ingredients {
+    text-align: left;
+    padding: 20px;
+}
